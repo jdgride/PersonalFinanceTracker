@@ -7,3 +7,6 @@
 # 1. Check for existing excel file in folder, if none exists create one.
 # 2. Open the file, write some test data to it, and close it
 # 3. Open the file, and read the data from it.
+
+# List of Grider tasks:
+# 1. Create GUI
